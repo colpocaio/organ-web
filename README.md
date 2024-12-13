@@ -5,14 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h3> Integrantes do grupo:
-  Amanda Lorena de Almeida Correia, 2210324
-  Caio Eduardo de Jesus Araújo Colpo, 2210890
-  João Vitor Resende Soares, 2211255
-  Gennifer Santos Carvalho 2212569
-  Renato Peixoto Akapohi, 2211140
-  </h3>
-
   <h1>Documentação do Frontend - Sistema de Doação de Órgãos</h1>
   
   <h2>Contextualização</h2>
